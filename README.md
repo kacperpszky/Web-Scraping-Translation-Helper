@@ -1,8 +1,8 @@
 # Web Scraping Translation Helper
 
-This Python project, developed for a school assignment, uses BeautifulSoup to access and parse the source code of a website, extracting word data to automate translations. The site presented English words, and the task was to input their Polish translations. The script automates the process by fetching the word list and providing their correct translations in Polish.
+This Python project, developed for a school assignment, uses Selenium to access and parse the source code of a website, extracting word data to automate translations. The site presented English words, and the task was to input their Polish translations. The script automates the process by fetching the word list and providing their correct translations in Polish.
 
-* Web Scraping: Uses BeautifulSoup to scrape the source code of the target website and extract word data.
+* Web Scraping: Uses Selenium to scrape the source code of the target website and extract word data.
 * Automated Translation: Retrieves and translates words into Polish, streamlining the homework process.
 * Simple and Efficient: Designed as a quick solution for a school project, allowing for fast and accurate translation of vocabulary.
 
